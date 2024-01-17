@@ -7,16 +7,16 @@ from ursina.raycaster import raycast
 
 # Models
 models = {
-    'adventure': {'enemy': {'model': 'assets/adventure', 'texture': '', 'scale': 2},
-                  'background': {'texture': 'assets/adventure/background.jpg'},
-                  'building': {'model': 'assets/adventure/pillars.obj', 'texture': 'marble.jpg', 'scale': 0.001}},
-    'horror': {'enemy': {'model': 'assets/horror/Seraph.obj', 'texture': '', 'scale': 2},
-               'background': {'texture': 'assets/horror/background.jpg'},
-               'building': {'model': 'assets/horror/pillars.obj', 'texture': 'assets/horror/marble.jpg', 'scale': 0.001},
-               'ground': 'assets/horror/ground.png'},
-    'fantasy': {'enemy': {'model': 'assets/fantasy/hellokitty.obj', 'texture': '', 'scale': 0.5},
-                'background': {'texture': 'assets/fantasy/background.jpg'},
-                'building': {'model': 'assets/fantasy/Candycane.obj', 'texture': '', 'scale': 2}}
+    'adventure': {'enemy': {'model': 'adventure', 'texture': '', 'scale': 2},
+                  'background': {'texture': 'adventure/background.jpg'},
+                  'building': {'model': 'adventure/pillars.obj', 'texture': 'marble.jpg', 'scale': 0.001}},
+    'horror': {'enemy': {'model': 'horror/Seraph.obj', 'texture': '', 'scale': 2},
+               'background': {'texture': 'horror/background.jpg'},
+               'building': {'model': 'horror/pillars.obj', 'texture': 'horror/marble.jpg', 'scale': 0.001},
+               'ground': 'horror/ground.png'},
+    'fantasy': {'enemy': {'model': 'fantasy/hellokitty.obj', 'texture': '', 'scale': 0.5},
+                'background': {'texture': 'fantasy/background.jpg'},
+                'building': {'model': 'fantasy/Candycane.obj', 'texture': '', 'scale': 2}}
 }
 
 app = Ursina()
