@@ -1,0 +1,48 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 18.04.2023 00:06:38
+
+newmtl yellow
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9216 0.5725 0.2627
+	Kd 0.9216 0.5725 0.2627
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\tusha\Documents\ProgrammingProjects\PycharmProjects\3In1FPS\assets\horror\Pillar\4_yellow.jpg
+	map_Kd C:\Users\tusha\Documents\ProgrammingProjects\PycharmProjects\3In1FPS\assets\horror\Pillar\4_yellow.jpg
+	map_bump C:\Users\tusha\Documents\ProgrammingProjects\PycharmProjects\3In1FPS\assets\horror\Pillar\4_yellow.jpg
+	bump C:\Users\tusha\Documents\ProgrammingProjects\PycharmProjects\3In1FPS\assets\horror\Pillar\4_yellow.jpg
+
+newmtl black_st
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3098 0.3098 0.3098
+	Kd 0.3098 0.3098 0.3098
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\tusha\Documents\ProgrammingProjects\PycharmProjects\3In1FPS\assets\horror\Pillar\4_greys.jpg
+	map_Kd C:\Users\tusha\Documents\ProgrammingProjects\PycharmProjects\3In1FPS\assets\horror\Pillar\4_greys.jpg
+
+newmtl white_st
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9804 0.9412 0.9529
+	Kd 0.9804 0.9412 0.9529
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\tusha\Documents\ProgrammingProjects\PycharmProjects\3In1FPS\assets\horror\Pillar\4_whites.jpg
+	map_Kd C:\Users\tusha\Documents\ProgrammingProjects\PycharmProjects\3In1FPS\assets\horror\Pillar\4_whites.jpg
+	map_bump C:\Users\tusha\Documents\ProgrammingProjects\PycharmProjects\3In1FPS\assets\horror\Pillar\4_whites.jpg
+	bump C:\Users\tusha\Documents\ProgrammingProjects\PycharmProjects\3In1FPS\assets\horror\Pillar\4_whites.jpg

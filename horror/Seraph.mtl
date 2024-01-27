@@ -1,0 +1,113 @@
+# Blender MTL File: 'None'
+# Material Count: 10
+
+newmtl Angel.001
+Ns 594.473058
+Ka 1.000000 1.000000 1.000000
+Kd 0.349059 0.412754 0.443013
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 1.500000 textures\\DefaultMaterial_Normal_OpenGL.jpg
+
+newmtl Chainmail.001
+Ns 552.750079
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.590368 0.295508
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump textures\\Chainmail_Normal_OpenGL.png
+map_Kd textures\\Chainmail_Metallic.png
+
+newmtl Dress.001
+Ns 42.842987
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.560000 0.560000 0.560000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.300000 textures\\Dress_Normal_OpenGL.png
+map_Kd textures\\Material.003_Base_color.png
+
+newmtl Face.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures\\young_lightskinned_female_diffuse.png
+
+newmtl Material.005
+Ns 746.779827
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:\\textures\\d82d2yj-471dc20f-0b78-412b-9323-141340b6e9ad.png
+
+newmtl None.002
+Ns 500.000001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Straps.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl WingFace.001
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\wing_Normal_OpenGL.png
+map_Kd textures\\wing_Metallic.png
+
+newmtl eye.001
+Ns 835.735520
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.747273 0.747273 0.747273
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures\\eye_Base_color.png
+
+newmtl fire.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Ke C:\\Users\\jeand\\Pictures\\fireball-2-vfx-video-alpha-footage-081661318_iconl.webp
